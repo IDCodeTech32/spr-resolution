@@ -6,3 +6,4 @@ Berikut ini rencana Pembelajaran
 2. Node.js
 3. React JS
 4. express.js
+5. Fundamental Data Structure
