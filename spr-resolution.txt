@@ -4,4 +4,4 @@ SPR RESOLUTION
 3. REACT
 4. LARAVEL 
 5. Of course ML Too
-6. nooo calculus
+6. Rust?
