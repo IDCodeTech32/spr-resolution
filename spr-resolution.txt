@@ -3,3 +3,5 @@ SPR RESOLUTION
 2. JS
 3. REACT
 4. LARAVEL 
+5. Of course ML Too
+6. nooo calculus
